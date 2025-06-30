@@ -1,4 +1,6 @@
 ## キャンパス用
+都合によりここでは一般向けアカウントは公表しません
+このアカウントはキャンパス用です　主にパーティメンバーとの開発に使用されます
 <!--
 **NekomiyaKira25/NekomiyaKira25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
